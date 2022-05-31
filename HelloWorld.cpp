@@ -1,4 +1,6 @@
 // Simple C++ program to display "Hello World"
+//Author: Jim Wallace <fs9541@wayne.edu>
+
 // Header file for input output functions
 #include<iostream>
 
@@ -12,4 +14,4 @@ int main()
     cout<<"Hello World!";
 
     return 0;
-} 
+}
